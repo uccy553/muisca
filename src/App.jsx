@@ -39,7 +39,7 @@ const App = () => {
       )}
     </div>
     <div className='flex justify-center items-center bg-black'>
-    <p className='text-white'>© 2022 Nessa</p>
+    <p className='text-white'>© 2022</p>
     </div>
     </>
   );
